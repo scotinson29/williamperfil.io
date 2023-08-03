@@ -1,0 +1,6 @@
+/* Esto es para ser importado en styles */
+:root{
+    --color-primary: #474973;
+    --color-primary-dark: #0D0C1D;
+    --color-gray: #cccccc;
+}
